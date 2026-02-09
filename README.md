@@ -1,2 +1,21 @@
-# iglesia-app
-Aplicación web para la gestión integral de una iglesia desarrollada con arquitectura de microservicios y principios de arquitectura hexagonal. Construida con NestJS, NextJS, PostgreSQL, Redis y Docker, Incorporando buenas practicas testing, CI/CD y control de versiones con GitHub.
+# Iglesia App
+
+Aplicación web para la gestión integral de una iglesia, desarrollada con tecnologías modernas y buenas prácticas de ingeniería de software.
+
+## 🎯 Objetivo
+Construir una plataforma que permita administrar miembros, usuarios y procesos internos de una iglesia, aplicando arquitectura de microservicios y principios de arquitectura hexagonal.
+
+## 🛠️ Tecnologías (en progreso)
+- Backend: NestJS
+- Frontend: Next.js
+- Base de datos: PostgreSQL
+- Cache: Redis
+- Contenedores: Docker
+- Control de versiones: Git + GitHub
+- CI/CD: GitHub Actions
+
+## 🚧 Estado del proyecto
+Este proyecto se encuentra en fase inicial de planificación y configuración del entorno de desarrollo.
+
+## 📌 Notas
+El proyecto se desarrollará de forma incremental, priorizando el aprendizaje, la organización y la calidad del código.
